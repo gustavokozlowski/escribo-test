@@ -22,7 +22,6 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 
 <ul>
   <li>Somente JavaScript</li>
-  ***
 </ul>
 
 ### Comando para rodar:
@@ -43,9 +42,10 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 <ul>
   <li>Quookka: extensão para o VScode</li>
   <ul>
-     <li> [Documentação]:(https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode);  <li>
+     <li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode <li>
+     <li> [Documentação]: (https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)<li>
   </ul>
-  <li>Criando uma instância da função e passando o parâmetro desejado</li>
+  <li>Criando uma instância da função e passando o parâmetro desejado;</li>
 </ul>
 
 Simples assim.
