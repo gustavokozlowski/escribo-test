@@ -44,8 +44,6 @@ Rodar projeto:
 
 ### Como testar?:
 
-```
-
     <ul>
     <li>Quookka: extensão para o VScode</li>
     <ul>
@@ -53,7 +51,5 @@ Rodar projeto:
     </ul>
     <li> </li>
     </ul>
-
-```
 
 Simples assim.
