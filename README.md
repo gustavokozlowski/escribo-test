@@ -16,7 +16,9 @@ Este projeto é o resultado da implementação da solução de um desafio propos
 
 ### Demo video:
 
-https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-0941-4360-b1b6-5fdafa897607
+
+https://github.com/gustavokozlowski/escribo-test/assets/94485093/7bc10cc1-bfba-42e8-89d6-2e1787f0faa7
+
 
 ### Tecnologias utilizadas neste projeto:
 
@@ -44,7 +46,9 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
    <ul>
      <li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode</li>
      <li> [Video no Youtube explicando o Quokka]: https://youtu.be/yB6IJ_PaQ4Y?si=mqsB92c7Oo9qXLaR </li>
-     <li> [Video de demonstração]: </li>
+     <li> [Video de demonstração do Quokka]:
+     https://github.com/gustavokozlowski/escribo-test/assets/94485093/c24be2a0-e93b-4081-9f5d-3af223edf1c7
+     </li>
   </ul>
  <li>Testes manuais: criando uma instância da função e passando o  número desejado como parâmetro;</li>
 </ul>
