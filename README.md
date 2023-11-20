@@ -24,21 +24,16 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
   <li>Somente JavaScript</li>
 </ul>
 
-### Comando para uso:
+### Comando para rodar:
 
 ````
 
- Instalar dependencias:
+ vá até o terminal do vscode e digite:
 
-``` npm install
+``` node index.js
 
-Rodar o servidor:
+ [Ou se preferir você pode utilizar a extensão Code Runner]("https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"):
 
-``` npm run server
-
-Rodar projeto:
-
-``` npm run dev
 
 ````
 
@@ -48,10 +43,10 @@ Rodar projeto:
   <li>Quookka: extensão para o VScode</li>
   <ul>
      <li>
-    Documentação: <a src="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode"> clique aqui</a>
+    Documentação: **[clique aqui]("https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode")**
       <li>
   </ul>
-  <li>Testando manualmente a ffunção inserindo inúmeros valores</li>
+  <li>Testando manualmente a função inserindo inúmeros valores</li>
 </ul>
 
 Simples assim.
