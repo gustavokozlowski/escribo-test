@@ -33,7 +33,7 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 
 ````
 
-[Ou se preferir você pode utilizar a extensão Code Runner]: (https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner);
+#### [Ou se preferir você pode utilizar a extensão Code Runner]: (https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner);
     
 ***
 

@@ -7,7 +7,6 @@ function sum(num) {
         // switch case com o typeof para validar se o parâmetro da função "sum" é do tipo Number
         switch (typeof num) {
             case 'number':
-                // console.log("funfou")
                 for (let i = 0; i < num; i++) {
                     if (i % 3 === 0 || i % 5 === 0) {
                         result += i;
@@ -24,12 +23,3 @@ function sum(num) {
 
 // Passe o número desejado como parâmetro da função "sum"
 sum(10);
-// criar typeof para verificar se o numero é inteiro
-
-//criar condição para verificar se o numero é inteiro e positivo;
-
-// criar estrutura de repetição(loop)
-
-// add condição da regra de negocio para que a variavel sum possa receber incremeents
-
-
