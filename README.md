@@ -32,7 +32,7 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 
 ``` node index.js
 
- [Ou se preferir você pode utilizar a extensão Code Runner]("https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"):
+ [Ou se preferir você pode utilizar a extensão Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner):
 
 
 ````
@@ -43,7 +43,7 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
   <li>Quookka: extensão para o VScode</li>
   <ul>
      <li>
-    Documentação: **[clique aqui]("https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode")**
+    Documentação: **[clique aqui](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)**
       <li>
   </ul>
   <li>Testando manualmente a função inserindo inúmeros valores</li>
