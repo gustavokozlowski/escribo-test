@@ -35,11 +35,13 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 
 <ul>
 <li>QuookkaJs: extensão para o VScode</li>
-<ul>
+<ol>
 <li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode<li>
+
 <li> [Video no Youtube explicando o Quokka]: https://youtu.be/yB6IJ_PaQ4Y?si=mqsB92c7Oo9qXLaR <li>
+
 <li> [Video de demonstração]: </li>
-  </ul>
+</ol>
   <li>Testes manuais: criando uma instância da função e passando o parâmetro desejado;</li>
 </ul>
 
