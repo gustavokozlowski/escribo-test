@@ -21,10 +21,7 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 ### Tecnologias utilizadas neste projeto:
 
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Somente JavaScript</li>
 </ul>
 
 ### Comando para uso:
@@ -51,7 +48,7 @@ Rodar projeto:
   <li>Quookka: extensão para o VScode</li>
   <ul>
      <li>
-    Documentação: <a src="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode"> </a>
+    Documentação: <a src="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode"> clique aqui</a>
       <li>
   </ul>
   <li>Testando manualmente a ffunção inserindo inúmeros valores</li>
