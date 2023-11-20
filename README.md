@@ -6,7 +6,13 @@ Este projeto é o resultado da implementação da solução de um desafio propos
 
 #### Descrição do Desafio:
 
--Implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+-Implementar uma função que receba um número como parâmetro.
+
+-Regras de negócio:
+<ul>
+  <li>O número passado como parâmetro da função deve ser inteiro e positivo</li>
+  <li>A função deve retornar o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.</li>
+</ul>
 
 ### Demo video:
 
@@ -34,15 +40,13 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 ### Como testar?
 
 <ul>
-<li>QuookkaJs: extensão para o VScode</li>
-<ul>
-<li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode</li>
-
-<li> [Video no Youtube explicando o Quokka]: https://youtu.be/yB6IJ_PaQ4Y?si=mqsB92c7Oo9qXLaR </li>
-
-<li> [Video de demonstração]: </li>
-</ul>
-<li>Testes manuais: criando uma instância da função e passando o parâmetro desejado;</li>
+ <li>QuookkaJs: extensão para o VScode</li>
+   <ul>
+     <li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode</li>
+     <li> [Video no Youtube explicando o Quokka]: https://youtu.be/yB6IJ_PaQ4Y?si=mqsB92c7Oo9qXLaR </li>
+     <li> [Video de demonstração]: </li>
+  </ul>
+ <li>Testes manuais: criando uma instância da função e passando o  número desejado como parâmetro;</li>
 </ul>
 
 Simples assim.
