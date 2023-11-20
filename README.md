@@ -44,7 +44,8 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
    <ul>
      <li> [Documentação] https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode</li>
      <li> [Video no Youtube explicando o Quokka]: https://youtu.be/yB6IJ_PaQ4Y?si=mqsB92c7Oo9qXLaR </li>
-     <li> [Video de demonstração]: </li>
+     <li> [Video de demonstração do Quokka]: </li>
+     https://github.com/gustavokozlowski/escribo-test/assets/94485093/c24be2a0-e93b-4081-9f5d-3af223edf1c7
   </ul>
  <li>Testes manuais: criando uma instância da função e passando o  número desejado como parâmetro;</li>
 </ul>
