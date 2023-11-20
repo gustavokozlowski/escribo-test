@@ -1,6 +1,6 @@
-// criar variavel para receber a soma dos números
+// variavel para receber a soma dos números
 let result = 0;
-// criar função para realizar tarefa
+// função para realizar tarefa
 function sum(num) {
     // condicional para verificar se o número é positivo e inteiro
     if (Math.sign(num) && Number.isInteger(num)) {
@@ -10,7 +10,7 @@ function sum(num) {
                 for (let i = 0; i < num; i++) {
                     if (i % 3 === 0 || i % 5 === 0) {
                         result += i;
-                        console.log(`Valor: ${result}`)
+                        console.log(`valor atual: ${result}`)
                     }
                 }
                 break;
@@ -20,6 +20,5 @@ function sum(num) {
     } else
         return console.info("Por favor insira um número que seja positivo e inteiro");
 }
-
-// Passe o número desejado como parâmetro da função "sum"
+// Chamada da função para passar o número desejado como parâmetro 
 sum(10);
