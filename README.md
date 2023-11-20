@@ -27,24 +27,20 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 ### Comando para rodar:
 
 ````
-
  vá até o terminal do vscode e digite:
 
 ``` node index.js
 
- [Ou se preferir você pode utilizar a extensão Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner):
-
-
 ````
-
+ [Ou se preferir você pode utilizar a extensão Code Runner]:(https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner);
+ 
 ### Como testar?
 
+ 
 <ul>
   <li>Quookka: extensão para o VScode</li>
   <ul>
-     <li>
-    Documentação: **[clique aqui](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)**
-      <li>
+     <li> [Documentação]:(https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode);  <li>
   </ul>
   <li>Testando manualmente a função inserindo inúmeros valores</li>
 </ul>
