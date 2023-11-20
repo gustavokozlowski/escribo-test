@@ -26,7 +26,7 @@ https://github.com/gustavokozlowski/tentaculo-todo-app/assets/94485093/628f7212-
 
 ### Comando para uso:
 
-````
+```
 
  Instalar dependencias:
 
@@ -40,7 +40,7 @@ Rodar projeto:
 
 ``` npm run dev
 
-````
+```
 
 ### Como testar?:
 
